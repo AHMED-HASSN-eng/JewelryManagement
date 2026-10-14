@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ahmedhassan/MyProjects/JewelryManagement/tests/JewelryManagement.UnitTests/JewelryManagement.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/JewelryManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/JewelryManagement.Application.csproj",
+        "projectName": "JewelryManagement.Application",
+        "projectPath": "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/JewelryManagement.Application.csproj",
+        "packagesPath": "/home/ahmedhassan/.nuget/packages/",
+        "outputPath": "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/home/ahmedhassan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/JewelryManagement.Domain.csproj": {
+                "projectPath": "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/JewelryManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "coverlet.collector": "[6.0.2, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Swashbuckle.AspNetCore": "[6.6.2, )",
+            "xunit": "[2.9.2, )",
+            "xunit.runner.visualstudio": "[2.8.2, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.130/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/JewelryManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/JewelryManagement.Domain.csproj",
+        "projectName": "JewelryManagement.Domain",
+        "projectPath": "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/JewelryManagement.Domain.csproj",
+        "packagesPath": "/home/ahmedhassan/.nuget/packages/",
+        "outputPath": "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/home/ahmedhassan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "coverlet.collector": "[6.0.2, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Swashbuckle.AspNetCore": "[6.6.2, )",
+            "xunit": "[2.9.2, )",
+            "xunit.runner.visualstudio": "[2.8.2, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.130/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ahmedhassan/MyProjects/JewelryManagement/tests/JewelryManagement.UnitTests/JewelryManagement.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ahmedhassan/MyProjects/JewelryManagement/tests/JewelryManagement.UnitTests/JewelryManagement.UnitTests.csproj",
+        "projectName": "JewelryManagement.UnitTests",
+        "projectPath": "/home/ahmedhassan/MyProjects/JewelryManagement/tests/JewelryManagement.UnitTests/JewelryManagement.UnitTests.csproj",
+        "packagesPath": "/home/ahmedhassan/.nuget/packages/",
+        "outputPath": "/home/ahmedhassan/MyProjects/JewelryManagement/tests/JewelryManagement.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/home/ahmedhassan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/JewelryManagement.Application.csproj": {
+                "projectPath": "/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/JewelryManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )",
+              "versionCentrallyManaged": true
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )",
+              "versionCentrallyManaged": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )",
+              "versionCentrallyManaged": true
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.2, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[6.0.2, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Swashbuckle.AspNetCore": "[6.6.2, )",
+            "xunit": "[2.9.2, )",
+            "xunit.runner.visualstudio": "[2.8.2, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.130/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

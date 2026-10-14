@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JewelryManagement.Infrastructure/1.0.0": {
+        "dependencies": {
+          "JewelryManagement.Application": "1.0.0"
+        },
+        "runtime": {
+          "JewelryManagement.Infrastructure.dll": {}
+        }
+      },
+      "JewelryManagement.Application/1.0.0": {
+        "dependencies": {
+          "JewelryManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "JewelryManagement.Application.dll": {}
+        }
+      },
+      "JewelryManagement.Domain/1.0.0": {
+        "runtime": {
+          "JewelryManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JewelryManagement.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JewelryManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JewelryManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

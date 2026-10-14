@@ -1,0 +1,15 @@
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/bin/Debug/net8.0/JewelryManagement.Application.deps.json
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/bin/Debug/net8.0/JewelryManagement.Application.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/bin/Debug/net8.0/JewelryManagement.Application.pdb
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/bin/Debug/net8.0/JewelryManagement.Domain.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/bin/Debug/net8.0/JewelryManagement.Domain.pdb
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/JewelryManagement.Application.csproj.AssemblyReference.cache
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/JewelryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/JewelryManagement.Application.AssemblyInfoInputs.cache
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/JewelryManagement.Application.AssemblyInfo.cs
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/JewelryManagement.Application.csproj.CoreCompileInputs.cache
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/JewelryManagement.Application.csproj.CopyComplete
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/JewelryManagement.Application.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/refint/JewelryManagement.Application.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/JewelryManagement.Application.pdb
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Application/obj/Debug/net8.0/ref/JewelryManagement.Application.dll

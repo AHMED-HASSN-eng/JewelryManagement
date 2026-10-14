@@ -1,0 +1,17 @@
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/bin/Debug/net8.0/JewelryManagement.Infrastructure.deps.json
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/bin/Debug/net8.0/JewelryManagement.Infrastructure.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/bin/Debug/net8.0/JewelryManagement.Infrastructure.pdb
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/bin/Debug/net8.0/JewelryManagement.Application.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/bin/Debug/net8.0/JewelryManagement.Domain.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/bin/Debug/net8.0/JewelryManagement.Application.pdb
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/bin/Debug/net8.0/JewelryManagement.Domain.pdb
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/JewelryManagement.Infrastructure.csproj.AssemblyReference.cache
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/JewelryManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/JewelryManagement.Infrastructure.AssemblyInfoInputs.cache
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/JewelryManagement.Infrastructure.AssemblyInfo.cs
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/JewelryManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/JewelryManagement.Infrastructure.csproj.CopyComplete
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/JewelryManagement.Infrastructure.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/refint/JewelryManagement.Infrastructure.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/JewelryManagement.Infrastructure.pdb
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Infrastructure/obj/Debug/net8.0/ref/JewelryManagement.Infrastructure.dll

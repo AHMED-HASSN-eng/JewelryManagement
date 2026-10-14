@@ -1,0 +1,11 @@
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/bin/Debug/net8.0/JewelryManagement.Domain.deps.json
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/bin/Debug/net8.0/JewelryManagement.Domain.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/bin/Debug/net8.0/JewelryManagement.Domain.pdb
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/obj/Debug/net8.0/JewelryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/obj/Debug/net8.0/JewelryManagement.Domain.AssemblyInfoInputs.cache
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/obj/Debug/net8.0/JewelryManagement.Domain.AssemblyInfo.cs
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/obj/Debug/net8.0/JewelryManagement.Domain.csproj.CoreCompileInputs.cache
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/obj/Debug/net8.0/JewelryManagement.Domain.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/obj/Debug/net8.0/refint/JewelryManagement.Domain.dll
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/obj/Debug/net8.0/JewelryManagement.Domain.pdb
+/home/ahmedhassan/MyProjects/JewelryManagement/src/JewelryManagement.Domain/obj/Debug/net8.0/ref/JewelryManagement.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/JewelryManagement.Api.props" />
+</Project>
